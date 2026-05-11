@@ -1,4 +1,4 @@
-**# 🏥 AnbarOne  
+# 🏥 AnbarOne  
 ### Healthcare Data Engineering Pipeline with Apache Airflow & PySpark
 
 <p align="center">
